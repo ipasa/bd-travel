@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="UTF8"?>
+<help>
+    <dhaka>
+        <hospital>
+            <name>AdDin Hospital</name>
+            <address>Moghbazar, Dhaka</address>
+            <phone>880293533913</phone>
+        </hospital>
+        <hospital>
+            <name>Ahmed Medical Centre Ltd</name>
+            <address>House # 71, Road # 15A, (New), Dhanmondi C/A</address>
+            <phone>88028113628</phone>
+        </hospital>
+        <hospital>
+            <name>Aichi Hospital</name>
+            <address>House # 13, Eshakha Avenue Sector # 6, utttara Dhaka</address>
+            <phone>88028916290</phone>
+        </hospital>
+        <hospital>
+            <name>Al Anaiet Adhunik Hospital</name>
+            <address>House # 36, Road # 3, Dhanmondi</address>
+            <phone>88028631619</phone>
+        </hospital>
+        <hospital>
+            <name>Al Helal Speacialist Hospital</name>
+            <address>150,Rokeya Sarani Senpara ParbataMirpur10, Dhaka</address>
+            <phone>88029006820</phone>
+        </hospital>
+        <hospital>
+            <name>Al JebelENur Heart Ltd.</name>
+            <address>House # 21, Road # 9/A (New),Dhanmondi</address>
+            <phone>88028117031</phone>
+        </hospital>
+        <hospital>
+            <name>Al Rajhi Hospital</name>
+            <address>12, Farmgate. Dhaka 1215</address>
+            <phone>88028119229</phone>
+        </hospital>
+        <hospital>
+            <name>AlAhsraf General Hospital</name>
+            <address>House # 12 Road # 21,Sector # 4,Uttara Dhaka</address>
+            <phone>88028952851</phone>
+        </hospital>
+        <hospital>
+            <name>AlBiruni Hospital</name>
+            <address>23/1, Khilzee Road, Shyamoli</address>
+            <phone>88028118905</phone>
+        </hospital>
+        <hospital>
+            <name>AlFateh Medical Sevices (Pvt) Ltd.</name>
+            <address>11, Farmgate over Bridge East Side</address>
+            <phone>88029120615</phone>
+        </hospital>
+        <hospital>
+            <name>AlMadina General Hospital (Pvt.) Ltd.</name>
+            <address>2/A, Golden Street, Ring Road, Shamoli, Dhaka</address>
+            <phone>88028118709</phone>
+        </hospital>
+        <hospital>
+            <name>AlManar Hospital</name>
+            <address>5/4, BlockF, Lalmatia Dhaka 1207</address>
+            <phone>88029121387</phone>
+        </hospital>
+        <hospital>
+            <name>AlMarkazul Islami Hospital</name>
+            <address>21/17, Babar Road, Mohammadpur</address>
+            <phone>88028114980</phone>
+        </hospital>
+        <hospital>
+            <name>AlMohite General Hospital and Diagnostic Centre</name>
+            <address>House # 11, Road # 2, Shamoli</address>
+            <phone>88029113831</phone>
+        </hospital>
+        <hospital>
+            <name>Amri Hospitals, Kolkata</name>
+            <address>C/O R R Trading and Co.Erectors House (10 th Flr.) 18, Kemal Ataturk Avenue Banani C/A, Dhaka – 1213</address>
+            <phone>88098935289</phone>
+        </hospital>
+        <hospital>
+            <name>Apollo Hospital</name>
+            <address>Plot 81, BlockE, Basundhara Residential Area, Dhaka1229.</address>
+            <phone>88028401661</phone>
+        </hospital>
+        <hospital>
+            <name>Arogya Niketan Hospital Ltd.</name>
+            <address>242243, New Circular Road, Malibagh</address>
+            <phone>88029333730</phone>
+        </hospital>
+        <hospital>
+            <name>Aysha Memorial Hospital</name>
+            <address>74/G, Peacock Square, Mahakhali, Dhaka.</address>
+            <phone>88029122689</phone>
+        </hospital>
+        <hospital>
+            <name>B.D.F. Hospital</name>
+            <address>5/7, Humayaun Road, Block # D, Mohammadpur</address>
+            <phone>88028123730</phone>
+        </hospital>
+        <hospital>
+            <name>Bangabandhu Shiekh Mujib Medical University</name>
+            <address>Shabagh, Dhaka</address>
+            <phone>88028614545</phone>
+        </hospital>
+        <hospital>
+            <name>Bangal Nursing Home Ltd.</name>
+            <address>Lake Circus, Kalabagan, Dhaka</address>
+            <phone>88029114824</phone>
+        </hospital>
+        <hospital>
+            <name>Bangkok Hospital Office, Bangladesh</name>
+            <address>Lion Complex (4th Floor), 73, New Airport Road, Tejgaon</address>
+            <phone>88029139777</phone>
+        </hospital>
+        <hospital>
+            <name>Bangladesh Heart and Chest Hospital</name>
+            <address>Road # 27 (Old), 16 (New), House # 47, Dhanmondi</address>
+            <phone>88029114266</phone>
+        </hospital>
+        <hospital>
+            <name>Bangladesh Medical College</name>
+            <address>House # 35, Road # 14/A, Dhanmondi</address>
+            <phone>88029118202</phone>
+        </hospital>
+        <hospital>
+            <name>Birdem General Hospital</name>
+            <address>At the NorthEast of the Shahbag Square and South of the National Broadcast Authority.Shahbagh, Dhaka</address>
+            <phone>880861664150</phone>
+        </hospital>
+        <hospital>
+            <name>Bnsb Dhaka Eye Hospital</name>
+            <address>Mirpur1, Dhaka</address>
+            <phone>88028014476</phone>
+        </hospital>
+        <hospital>
+            <name>Brain and Maind Hospital Ltd.</name>
+            <address>149/A, Airport Road, Farmgate, Baityl Shoraf Mosque Complex</address>
+            <phone>88028120710</phone>
+        </hospital>
+        <hospital>
+            <name>Brighton Hospital Ltd</name>
+            <address>163, Sonargaon Road Hitirpool, Dhaka 1205</address>
+            <phone>88028626901</phone>
+        </hospital>
+        <hospital>
+            <name>Bumrungrad Hospital</name>
+            <address>House 154, Road 11, Block E, Banani, Dhaka.</address>
+            <phone>88028855254</phone>
+        </hospital>
+        <hospital>
+            <name>Case Hospital</name>
+            <address>2/1 A, Iqbal Road, Mohammadpur, Dhaka.</address>
+            <phone>88029132548</phone>
+        </hospital>
+        <hospital>
+            <name>Care Madical Center Ltd.</name>
+            <address>41, Chamelibagh, Shantinagar</address>
+            <phone>88028318827</phone>
+        </hospital>
+        <hospital>
+            <name>Central Hospital Ltd.</name>
+            <address>House # 2, Road # 5, Green Road, Dhanmondi</address>
+            <phone>880966001519</phone>
+        </hospital>
+        <hospital>
+            <name>Chd Medical Complex</name>
+            <address>House # 16, Road # 16, Sector # 4, Uttara Model Town</address>
+            <phone>88028920670</phone>
+        </hospital>
+        <hospital>
+            <name>Chandshi Medical Centre</name>
+            <address>House # 9, Road # 27, Block # K, Banani</address>
+            <phone>88028821875</phone>
+        </hospital>
+        <hospital>
+            <name>ChinaBangla Hospital (Jv) Ltd.</name>
+            <address>Plot # 1, Road # 7, Sector # 1, Uttara</address>
+            <phone>88028821875</phone>
+        </hospital>
+        <hospital>
+            <name>Cholera Hospital (Icddrb)</name>
+            <address>Dhaka, Mohkhali</address>
+            <phone>8806001718</phone>
+        </hospital>
+        <hospital>
+            <name>Christian Medical Hospital</name>
+            <address>6/3, Nadda, Baridhara (North)</address>
+            <phone>88029886298</phone>
+        </hospital>
+        <hospital>
+            <name>City Dental College and Hospital</name>
+            <address>1085/1, Malibagh, Chowdhurypara</address>
+            <phone>88028313305</phone>
+        </hospital>
+        <hospital>
+            <name>City Hospital (Pvt) Ltd.</name>
+            <address>69/1/1, Panthapath</address>
+            <phone>88028623205</phone>
+        </hospital>
+        <hospital>
+            <name>CMH (Dhaka Cantonment)</name>
+            <address>Dhaka</address>
+            <phone>8802882770</phone>
+        </hospital>
+        <hospital>
+            <name>Community Hospital</name>
+            <address>190/1, Wireless Rail Gate, Baramaghbazar, Dhaka</address>
+            <phone>88093511901</phone>
+        </hospital>
+        <hospital>
+            <name>Community Maternity Hospital</name>
+            <address>22, Bijay Nagar</address>
+            <phone>88029358513</phone>
+        </hospital>
+        <hospital>
+            <name>Control Of Diarrhoeal Disease Programme</name>
+            <address>1/13, Humayun Road, Block # B, Mohammadpur</address>
+            <phone>88029114581</phone>
+        </hospital>
+        <hospital>
+            <name>Crescent Gastroliver and General Hospital Ltd.</name>
+            <address>House 60, Road 8/A, Dhanmondi R/A, Dhaka.</address>
+            <phone>88029116851</phone>
+        </hospital>
+        <hospital>
+            <name>Crescent Hospital and Dignostic</name>
+            <address>22/2, Babar Road, Mohammadpur, Dhaka</address>
+            <phone>88028119775</phone>
+        </hospital>
+        <hospital>
+            <name>Cresent Gestolever and General Hospital</name>
+            <address>House # 60, Road # 8/A, Dhanmondi R/A</address>
+            <phone>88029116851</phone>
+        </hospital>
+        <hospital>
+            <name>Cure Medical Center Ltd.</name>
+            <address>House5, Road16, Gulshan1, Dhaka1212.</address>
+            <phone>88029894776</phone>
+        </hospital>
+        <hospital>
+            <name>Delta Medical Centre Ltd.</name>
+            <address>House # 20, Raod # 4, Dhanmondi R/A</address>
+            <phone>88086171413</phone>
+        </hospital>
+        <hospital>
+            <name>Dhaka Community Hospital</name>
+            <address>190/1, Baro Moghbazar, Wireless Railgate</address>
+            <phone>880935119091</phone>
+        </hospital>
+        <hospital>
+            <name>Dhaka City General Hospital</name>
+            <address>At the side of Nayabazar Breeze area. Nawab Iusuf Road, Nayabazar, Dhaka1100.</address>
+            <phone>88027390860</phone>
+        </hospital>
+        <hospital>
+            <name>Dhaka Medical College Hospital</name>
+            <address>Polashi, Dhaka </address>
+            <phone>88028616744</phone>
+        </hospital>
+        <hospital>
+            <name>Dhaka Monorogh Chinic</name>
+            <address>House # 13, Road # I Block # 11/A, Mirpur Dhaka</address>
+            <phone>88029005050</phone>
+        </hospital>
+        <hospital>
+            <name>Dhaka National Hospital Ltd.</name>
+            <address>House # 55/1, Road # 27 (Old) 16 (New), Dhanmondi R/A</address>
+            <phone>88028122588</phone>
+        </hospital>
+        <hospital>
+            <name>Dhanmondi Hospital (Pvt) Ltd.</name>
+            <address>House # 19/E, Green Road, Middle of Road # 6 and 7, Dhanmondi</address>
+            <phone>88028628849</phone>
+        </hospital>
+        <hospital>
+            <name>Doctors General Hospital</name>
+            <address>31/32, DIT Industrial Area, Postogola</address>
+            <phone>88027410731</phone>
+        </hospital>
+        <hospital>
+            <name>Dr. Salahudding Hospital</name>
+            <address>House # 37, Road # 9/A, Dhanmondi R/A</address>
+            <phone>88029121779</phone>
+        </hospital>
+        <hospital>
+            <name>Dushta Shasthya Hospital </name>
+            <address>21/1, Khilji Road, Mohammadpur</address>
+            <phone>88028124952</phone>
+        </hospital>
+        <hospital>
+            <name>Dustha Shasta Hospital</name>
+            <address>21/1, Khiljee Road, Mohammadpur,Dhaka 1207</address>
+            <phone>88028124952</phone>
+        </hospital>
+        <hospital>
+            <name>Enam medical college hospital</name>
+            <address>9/3, Parbotinagar, Savar Thana Rd, Savar 1340  </address>
+            <phone>01718846107</phone>
+        </hospital>
+        <hospital>
+            <name>Eden Malticare Hospital</name>
+            <address>753, Satmajid Road Dhanmondi, Dhaka 1209</address>
+            <phone>88028151506</phone>
+        </hospital>
+        <hospital>
+            <name>Faud Al Khatib Hospital</name>
+            <address>Almas Tower, 282/1, 1st Colony, Majar Road, Mirpur</address>
+            <phone>88029007188</phone>
+        </hospital>
+        <hospital>
+            <name>Federal Medical College Hospital Ltd</name>
+            <address>20, Link Road, Bangla Motor</address>
+            <phone>88086130978</phone>
+        </hospital>
+        <hospital>
+            <name>General Hospital Ltd</name>
+            <address>House # 60, Road # 8/A,Dhanmondi, R/A, Dhaka</address>
+            <phone>88029137182</phone>
+        </hospital>
+        <hospital>
+            <name>Green Life Medical College and Hospital</name>
+            <address>32, Bir Uttam K.M. Shafiullah Road, Green Road, Dhanmondi, Dhaka1205</address>
+            <phone>8801716329964</phone>
+        </hospital>
+        <hospital>
+            <name>Green Land Hospital</name>
+            <address>It is 300 gauges (9000 Feet) south from Mirpur10 circle.Mirpur13, Kafrul, Dhaka</address>
+            <phone>88028012048</phone>
+        </hospital>
+        <hospital>
+            <name>Holy Family Red Crescent Hospital</name>
+            <address>Eskaton Garden Road, Dhaka</address>
+            <phone>831172125</phone>
+        </hospital>
+        <hospital>
+            <name>Hyfia General Hospital</name>
+            <address>1/A, Adabar, Ring Road, Shamoli, Dhaka</address>
+            <phone>88029120519</phone>
+        </hospital>
+        <hospital>
+            <name>Ibn Sina Medical College and Hospital</name>
+            <address>1/1/B, Kallanpur, Dhaka1216.</address>
+            <phone>88029010396</phone>
+        </hospital>
+        <hospital>
+            <name>Idial General Hospital Ltd.</name>
+            <address>50/A, Shantinagar</address>
+            <phone>88029357385</phone>
+        </hospital>
+        <hospital>
+            <name>International Hospital</name>
+            <address>6, Eskaton Garden, Moghbazar</address>
+            <phone>88029333739</phone>
+        </hospital>
+        <hospital>
+            <name>Islami Bank Hospital</name>
+            <address>24/B, Outer Cercular Road, Dhaka</address>
+            <phone>88029336421</phone>
+        </hospital>
+        <hospital>
+            <name>Islamia Arogya Sadan Ltd</name>
+            <address>House # 35, Road # 1, Dhanmondi R/A</address>
+            <phone>88028631988</phone>
+        </hospital>
+        <hospital>
+            <name>Jahangirnagar Hospital Ltd.</name>
+            <address>34/1, Manir Hossain Lane, Swamibagh New Road, Dhajagonj</address>
+            <phone>71251524</phone>
+        </hospital>
+        <hospital>
+            <name>Khaliqun Nessa General Hospital</name>
+            <address>61, Becharam Dewri</address>
+            <phone>88027312449</phone>
+        </hospital>
+        <hospital>
+            <name>Made H Clinic</name>
+            <address>62, Lake Circus, Kalabagan</address>
+            <phone>88029112076</phone>
+        </hospital>
+        <hospital>
+            <name>Max Health Care</name>
+            <address>SuiteB, Level7 (8th Floor), Navana Tower, 45 Gulshan Avenue, Gulshan1, Dhaka. </address>
+            <phone>88028821604</phone>
+        </hospital>
+        <hospital>
+            <name>Medistine Hospital</name>
+            <address>218, Outer Circular Road,Moghbazar, Dhaka</address>
+            <phone>88029345003</phone>
+        </hospital>
+        <hospital>
+            <name>Meriland Hospital</name>
+            <address>Sector # 1, Road # 13, House # 4, Uttara</address>
+            <phone>88028919481</phone>
+        </hospital>
+        <hospital>
+            <name>Mirpur General Hospital</name>
+            <address>House # 35, Road # 1, Sector # 10, Mirpur</address>
+            <phone>88028015444</phone>
+        </hospital>
+        <hospital>
+            <name>Mirpur Holy Crescent Hospital (Pvt) Ltd.</name>
+            <address>33, South Bishil, Mirpur1, Dhaka</address>
+            <phone>88029000633</phone>
+        </hospital>
+        <hospital>
+            <name>Modern Harbal</name>
+            <address>12, Shantinagar</address>
+            <phone>88029357693</phone>
+        </hospital>
+        <hospital>
+            <name>Module General Hospital</name>
+            <address>1/G/3, Pirbag (East of Hatirpool bazar and aside of the Mosque), Dhaka1000</address>
+            <phone>88028610512</phone>
+        </hospital>
+        <hospital>
+            <name>Monon Psychiatry Hospital</name>
+            <address>150, Mohammadpur (VIP Road),Dhaka</address>
+            <phone>88029131958</phone>
+        </hospital>
+        <hospital>
+            <name>Japan Bangladesh Friendship </name>
+            <address>55, Sat Masjid Road (Jhigatola Bus Stand), Dhaka1209.</address>
+            <phone>88029672277</phone>
+        </hospital>
+        <hospital>
+            <name>Monowara General Hospital</name>
+            <address>Golapbagh, Bishwroad</address>
+            <phone>88027519446</phone>
+        </hospital>
+        <hospital>
+            <name>Mother Care Hospital (Pvt.) Ltd.</name>
+            <address>3/10, Lalmatia, Block – A, Mirpur Road</address>
+            <phone>88029119355</phone>
+        </hospital>
+        <hospital>
+            <name>Mounty Hospital</name>
+            <address>House # 67/A, Block – B, Lalmatia</address>
+            <phone>88028110864</phone>
+        </hospital>
+        <hospital>
+            <name>Munsor Ali Medical College</name>
+            <address>Sector # 11, Road # 19, Plot # 1/C, Chowrasta, Uttara</address>
+            <phone>88028917978</phone>
+        </hospital>
+        <hospital>
+            <name>National Medical College and Hospital</name>
+            <address>53/1, Johnson Road, Dhaka</address>
+            <phone>88027117300</phone>
+        </hospital>
+        <hospital>
+            <name>New AlRajhi Hosital</name>
+            <address>32,green Road, Dhaka</address>
+            <phone>88028611213</phone>
+        </hospital>
+        <hospital>
+            <name>Padma General Hospital Ltd.</name>
+            <address>290, Sonargaon Road</address>
+            <phone>88029661528</phone>
+        </hospital>
+        <hospital>
+            <name>Penta Star Hospital</name>
+            <address>161/A, Kalabagan, Lakecircus</address>
+            <phone>88029113131</phone>
+        </hospital>
+        <hospital>
+            <name>Proshanti Hospital Ltd.</name>
+            <address>6, Shantibagh, 3 Outer Citcular Road</address>
+            <phone>88028318699</phone>
+        </hospital>
+        <hospital>
+            <name>Rmo, Ibn Sina Hospital</name>
+            <address>House # 68, Road # 15/A, Dhanmondi R/A</address>
+            <phone>8802813709</phone>
+        </hospital>
+        <hospital>
+            <name>Royel Hospital (Pvt.) Ltd.</name>
+            <address>31, Eskaton Road</address>
+            <phone>88028313096</phone>
+        </hospital>
+    </dhaka>
+    <chittagong>
+        <hospital>
+            <name>Chittagong Medical College and Hospital</name>
+            <address>Fazlul Kader Road</address>
+            <phone>8803619597</phone>
+        </hospital>
+        <hospital>
+            <name>Chittagram Metropolitan Hospital</name>
+            <address>487/B, O.R. Nizam Road, Ctg.</address>
+            <phone>8803620634</phone>
+        </hospital>
+        <hospital>
+            <name>Chittagong General Hospital</name>
+            <address>Andarkillah, Ctg</address>
+            <phone>8803611407</phone>
+        </hospital>
+        <hospital>
+            <name>National Hospital Chittagong</name>
+            <address>30, Mehdibag</address>
+            <phone>880316237138</phone>
+        </hospital>
+        <hospital>
+            <name>B.B.M.H</name>
+            <address>U.S.T.C Foy’s lake</address>
+            <phone>880316590707</phone>
+        </hospital>
+        <hospital>
+            <name>Mouni Hospital and Diagnostic Centre</name>
+            <address>1160, Surson Road, Askardegi North</address>
+            <phone>88031623262</phone>
+        </hospital>
+        <hospital>
+            <name>Halishahar General Hospital</name>
+            <address>1733/A P Croad, West Rumpur Sabuj bag</address>
+            <phone>88031715166</phone>
+        </hospital>
+        <hospital>
+            <name>Lions General Hospital</name>
+            <address>Zakir Hossain Road, Nasirabad, Ctg.</address>
+            <phone>8803622443</phone>
+        </hospital>
+        <hospital>
+            <name>AlZahar Hospital Ltd.</name>
+            <address>1062, Love Lane (1st Floor)</address>
+            <phone>8803619378</phone>
+        </hospital>
+        <hospital>
+            <name>Chattagram Metropoliton Hospital (Pvt) Ltd.</name>
+            <address>948, O.R. Nizam Road</address>
+            <phone>88031651242</phone>
+        </hospital>
+        <hospital>
+            <name>Public Hospital Private Limited</name>
+            <address>1226, Chatteswart Road</address>
+            <phone>88031635744</phone>
+        </hospital>
+        <hospital>
+            <name>Mouni Hospital and Diagnostic Centre</name>
+            <address>1160, Surson Road, Askardegi North</address>
+            <phone>88031623262</phone>
+        </hospital>
+    </chittagong>
+    <sylhet>
+        <hospital>
+            <name>Apollo Information Centre Sylhet</name>
+            <address>Sahib Shopping Complex (1st Floor), East Zindabazar, Sylhet</address>
+            <phone>8804094116111</phone>
+        </hospital>
+        <hospital>
+            <name>The Central Diagnostic and Consultation Center</name>
+            <address>Midtown Complex (1st Floor), Rikabibazar, Sylhet Sadar, Sylhet 3100</address>
+            <phone>8801558460945</phone>
+        </hospital>
+        <hospital>
+            <name>Central Hospital</name>
+            <address>Howapara, Sylhet</address>
+            <phone>880821714849</phone>
+        </hospital>
+        <hospital>
+            <name>Sylhet M A G Osmani Medical College</name>
+            <address>Sylhet Sadar, Sylhet</address>
+            <phone>880821717055</phone>
+        </hospital>
+        <hospital>
+            <name>Shahid Shamsuddin Medical</name>
+            <address>Chowhatta, Sylhet Sadar, Sylhet 3100</address>
+            <phone>880821713506</phone>
+        </hospital>
+        <hospital>
+            <name>Sylhet Shishu Clinic and General Hospital</name>
+            <address>UpoKantho R/A, Subahani Ghat (Bishwa Road), Sylhet</address>
+            <phone>0821715992</phone>
+        </hospital>
+        <hospital>
+            <name>Sylhet Metropolitan Hospita</name>
+            <address>Rikabibazar, Sylhet</address>
+            <phone>880821711116</phone>
+        </hospital>
+        <hospital>
+            <name>Upazila Health Complex</name>
+            <address>Government Hospital Companiganj, Sylhet</address>
+            <phone>8801730324752</phone>
+        </hospital>
+        <hospital>
+            <name>Upazila Health Complex</name>
+            <address>Government Hospital Jayantipur, Sylhet</address>
+            <phone>8801730324756</phone>
+        </hospital>
+        <hospital>
+            <name>Upazila Health Complex</name>
+            <address>Government Hospital Kanaighat, Sylhet</address>
+            <phone>8801730324757</phone>
+        </hospital>
+        <hospital>
+            <name>Upazila Health Complex</name>
+            <address>Government Hospital Zakiganj, Sylhet</address>
+            <phone>8801730324758</phone>
+        </hospital>
+    </sylhet>
+    <khulna>
+        <hospital>
+            <name>Sadar Hospital</name>
+            <address>Government Hospital, Hospital and Clinic, (Khulna Sadar, Khulna Sadar, Khulnamap)</address>
+            <phone>8804724525</phone>
+        </hospital>
+        <hospital>
+            <name>Apollo Information Centre Khulna</name>
+            <address>Tribune Tower, 2B, KDA Avenue, Khulna</address>
+            <phone>8801713489191</phone>
+        </hospital>
+        <hospital>
+            <name>Cure Home diagnostic center</name>
+            <address>27, K.D.A. Avenue</address>
+            <phone>88041753542</phone>
+        </hospital>
+        <hospital>
+            <name>Diabetic Hospital</name>
+            <address>Khulna Sadar, Khulna</address>
+            <phone>88041721966</phone>
+        </hospital>
+        <hospital>
+            <name>Doha Physiotherapy Centre</name>
+            <address>Khulna Sadar, Khulna</address>
+            <phone>88041732355</phone>
+        </hospital>
+        <hospital>
+            <name>Khulna Medical College Hospital</name>
+            <address>Khulna Sadar, Khulna</address>
+            <phone>880417615315</phone>
+        </hospital>
+        <hospital>
+            <name>Khulna Nursing Home</name>
+            <address>123 Khan Jahan Ali Road, Khulna.</address>
+            <phone>88041723572</phone>
+        </hospital>
+        <hospital>
+            <name>Nahar Clinic</name>
+            <address>Khulna Sadar, Khulna</address>
+            <phone>88041731478</phone>
+        </hospital>
+        <hospital>
+            <name>Upazila Health Complex</name>
+            <address>Government Hospital, Hospital and Clinic, (Dighalia, Dhigholia, Khulnamap)</address>
+            <phone>8801730324595</phone>
+        </hospital>
+        <hospital>
+            <name>Upazila Health Complex</name>
+            <address>Government Hospital, Hospital and Clinic, (Fultala, Fultala, Khulnamap)</address>
+            <phone>8801730324597</phone>
+        </hospital>
+        <hospital>
+            <name>Upazila Health Complex</name>
+            <address>Government Hospital, Hospital and Clinic, Paikgacha, Khulna</address>
+            <phone>8801730324599</phone>
+        </hospital>
+        <hospital>
+            <name>Upazila Health Complex</name>
+            <address>Government Hospital, Hospital and Clinic, Rupsa, Khulna</address>
+            <phone>8801730324600</phone>
+        </hospital>
+        <hospital>
+            <name>Upazila Health Complex</name>
+            <address>Government Hospital, Hospital and Clinic, Terokhada, Khulna</address>
+            <phone>8801730324601</phone>
+        </hospital>
+    </khulna>
+    <barisal>
+        <hospital>
+            <name>Ambia Memorial Hospital</name>
+            <address>Bogura Road, Barisal</address>
+            <phone>88043175364</phone>
+        </hospital>
+        <hospital>
+            <name>Apollo Diagnostic Complex (Pvt) Ltd.</name>
+            <address>135, Sader Road, Barisal,</address>
+            <phone>043174019</phone>
+        </hospital>
+        <hospital>
+            <name>BAVS Maternity Hospital</name>
+            <address>Hospital Road, Barisal</address>
+            <phone>88043163868</phone>
+        </hospital>
+        <hospital>
+            <name>Dr. Captain Najib Uddin Clinic</name>
+            <address>45, Sader Road, Barisal</address>
+            <phone>88042173234</phone>
+        </hospital>
+        <hospital>
+            <name>Islami Bank Hospital</name>
+            <address>Chandmari, Barisal</address>
+            <phone>88043171036</phone>
+        </hospital>
+        <hospital>
+            <name>Kirton Khola Diagnostic Centre</name>
+            <address>19, K.B. Hemayet Uddin Road, Barisal</address>
+            <phone>8801711192380</phone>
+        </hospital>
+        <hospital>
+            <name>SherEBangla Medical College Hospital (SBMCH)</name>
+            <address>Band Road, Barisal</address>
+            <phone>88043163400</phone>
+        </hospital>
+        <hospital>
+            <name>Sadar Hospital</name>
+            <address>Hospital Road, Barisal</address>
+            <phone>88043164372</phone>
+        </hospital>
+        <hospital>
+            <name>Upazila Health Complex</name>
+            <address>Government Hospital, Hospital and Clinic, Agailjhara, Barisal</address>
+            <phone>8801730324408</phone>
+        </hospital>
+        <hospital>
+            <name>Upazila Health Complex</name>
+            <address>Government Hospital, Hospital and Clinic, Babuganj, Barisal</address>
+            <phone>8801730324409</phone>
+        </hospital>
+        <hospital>
+            <name>Upazila Health Complex</name>
+            <address>Government Hospital, Hospital and Clinic, Hizla, Barisal</address>
+            <phone>8801730324413</phone>
+        </hospital>
+    </barisal>
+    <rangpur>
+        <hospital>
+            <name>Sandhani</name>
+            <address>Rangpur Medical College Unit. Rangpur</address>
+            <phone>88052165180</phone>
+        </hospital>
+        <hospital>
+            <name>Haragacha 31bed Hospital</name>
+            <address>Government Hospital Haragacha, Rangpur</address>
+            <phone>8801730324882</phone>
+        </hospital>
+        <hospital>
+            <name>Sadar Hospital</name>
+            <address>Government Hospital Rangpur Sadar, Rangpur</address>
+            <phone>88052163043</phone>
+        </hospital>
+        <hospital>
+            <name>Upazila Health Complex</name>
+            <address>Government Hospital Kaunia, Rangpur</address>
+            <phone>8801730324711</phone>
+        </hospital>
+        <hospital>
+            <name>Upazila Health Complex</name>
+            <address>Government Hospital Gonggachara, Rangpur</address>
+            <phone>01730324710</phone>
+        </hospital>
+        <hospital>
+            <name>Upazila Health Complex</name>
+            <address>Government Hospital Taragonj, Taragonj, Rangpur</address>
+            <phone>8801730324715</phone>
+        </hospital>
+        <hospital>
+            <name>Apollo Hospital information Center</name>
+            <address>Sahib Shopping Complex (1st floor), Medical More, Dhap, Jail Road, Rangpur5400</address>
+            <phone>880644411611</phone>
+        </hospital>
+        <hospital>
+            <name>Desh Clinic and Nursing Home</name>
+            <address>Dhap, Rangpur</address>
+            <phone>88052163350</phone>
+        </hospital>
+        <hospital>
+            <name>Ideal Clinic and Nursing home</name>
+            <address>R.K Road, Rangpur</address>
+            <phone>88052165955</phone>
+        </hospital>
+        <hospital>
+            <name>Islami Bank Community Hospital</name>
+            <address>Rangpur</address>
+            <phone>88052162731</phone>
+        </hospital>
+        <hospital>
+            <name>Marie Stopes Clinic</name>
+            <address>2 No. R.K. Road , Islambag, House – 87/1, P.S. Kotowali, Rangpur</address>
+            <phone>88052166693</phone>
+        </hospital>
+    </rangpur>
+    <rajshahi>
+        <hospital>
+            <name>AlArafa Clinic</name>
+            <address>Bornali More, Rajshahi</address>
+            <phone>880171378802838</phone>
+        </hospital>
+        <hospital>
+            <name>Blood Bank Shandhani(RMC)</name>
+            <address>Medical Information Centre Enquiry, Rajshahi Sadar, Rajshahi</address>
+            <phone>880721773080</phone>
+        </hospital>
+        <hospital>
+            <name>Cure Nursing Home Kazihata</name>
+            <address>Private Hospital and Clinic, Rajshahi Sadar, Rajshahi</address>
+            <phone>880721776392</phone>
+        </hospital>
+        <hospital>
+            <name>GaribENewaz Clinic</name>
+            <address>Talaimari, Rajshahi</address>
+            <phone>8801712239684</phone>
+        </hospital>
+        <hospital>
+            <name>Islami Bank Hospital Laxmipur</name>
+            <address>Private Hospital and Clinic Rajshahi, Rajshahi Sadar, Rajshahi</address>
+            <phone>880721774975</phone>
+        </hospital>
+        <hospital>
+            <name>Medical College</name>
+            <address>Rajshahi.</address>
+            <phone>880721774354</phone>
+        </hospital>
+        <hospital>
+            <name>Marie Stopes Clinic</name>
+            <address>Barnali More, House – 351 / 318, Greater Road, Rajshahi6000</address>
+            <phone>880721771847</phone>
+        </hospital>
+        <hospital>
+            <name>Paba Medical Hospital</name>
+            <address>Private Hospital and Clinic, Poba, Rajshahi</address>
+            <phone>880721775709</phone>
+        </hospital>
+        <hospital>
+            <name>Sadar Hospital</name>
+            <address>Rajshahi</address>
+            <phone>880721779155</phone>
+        </hospital>
+        <hospital>
+            <name>Seba Nursing Home Kadirgonj</name>
+            <address>Private Hospital and Clinic, Rajshahi, Rajshahi Sadar, Rajshahi</address>
+            <phone>880721776244</phone>
+        </hospital>
+        <hospital>
+            <name>Upazila Health Complex</name>
+            <address>Government Hospital, Durgapur, Rajshahi</address>
+            <phone>8801730324703</phone>
+        </hospital>
+        <hospital>
+            <name>Police Hospital</name>
+            <address>Government Hospital Rajshahi Sadar, Rajshahi</address>
+            <phone>8807774308</phone>
+        </hospital>
+        <hospital>
+            <name>University Medical Hospital</name>
+            <address>Government Hospital, Rajshahi Sadar, Rajshahi</address>
+            <phone>8807750169</phone>
+        </hospital>
+        <hospital>
+            <name>Upazila Health Complex</name>
+            <address>Government Hospital , Puthia, Rajshahi</address>
+            <phone>8801730324707</phone>
+        </hospital>
+    </rajshahi>
+</help>

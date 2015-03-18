@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>BD Travel</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="lib/jquery-2.1.1.min.js" type="text/javascript"></script>
+        <script src="lib/app.js" type="text/javascript"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?sensor=true"></script>
+        <script src="lib/jquery.mobile-1.4.5.min.js" type="text/javascript"></script>
+        <link href="lib/jquery.mobile-1.4.5.min.css" rel="stylesheet" type="text/css"/>
+        <link href="lib/style.css" rel="stylesheet" type="text/css"/>
+    </head>
+    <body>
+        <section data-role="page" data-theme="b">
+            <div data-role="header" data-position="fixed" data-theme="b">
+                <div data-role="navbar" data-theme="b">
+                    <ul>
+                        <li><a href="index.html#map-page" data-icon="location" data-transition='pop'>Location</a></li>
+                        <li><a href="index.html#about" data-icon="info" data-transition='pop' >About</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div data-role="content">
+                <ul id="divisions" data-role="listview" data-theme="b" data-icon="false"> 
+                    <li><a data-division="dhaka" >Dhaka <span class="ui-li-count">27</span></a></li>
+                    <li><a  data-division="chittagong" >Chittagong <span class="ui-li-count">57</span></a></li>
+                    <li><a  data-division="khulna" >Khulna <span class="ui-li-count">28</span></a></li>
+                    <li><a  data-division="rajshahi" >Rajshahi <span class="ui-li-count">28</span></a></li>
+                    <li><a  data-division="barisal" >Barisal <span class="ui-li-count">23</span></a></li>
+                    <li><a  data-division="sylhet" >Sylhet <span class="ui-li-count">18</span></a></li>
+                    <li><a  data-division="rangpur">Rangpur <span class="ui-li-count">12</span></a></li>
+                </ul> 
+            </div>
+            <div data-role="footer" data-position="fixed" data-theme="b" >
+                <div data-role="navbar" data-theme="b">
+                    <ul id="help-link">
+                        <li><a data-type='hospital'  data-icon="hospital">Hospital</a></li>
+                        <li><a data-type='police'  data-icon="police">Police</a></li>
+                        <li><a data-type='hotel'  data-icon="hotel">Hotel</a></li>
+                    </ul>
+                </div>
+            </div> 
+        </section>
+
+        <section id="places-list" data-role="page" data-theme="b">
+            <div data-role="header" data-position="fixed" data-theme="b">
+                <div data-role="navbar" data-theme="b">
+                    <ul>
+                        <li><a id="back-home" href="index.html" data-rel='back' data-icon="back">Back</a></li>
+                        <li><a href="index.html#map-page" data-icon="location" data-transition='pop'>Location</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div data-role="content">
+                <ul id="places" data-role="listview" data-filter="true" data-filter-placeholder="Search Place..."> 
+                   
+                </ul> 
+            </div>
+        </section>
+
+        <section id="place-detail" data-role="page" data-theme="b">
+            <div data-role="header" data-position="fixed" data-theme="b">
+                <div data-role="navbar" data-theme="b">
+                    <ul>
+                        <li><a href="#" data-rel='back' data-icon="back">Back</a></li>
+                        <li><a href="index.html" data-icon="home">Home</a></li>
+                        <li><a href="index.html#map-page" data-icon="navigation" data-transition='pop'>Navigate</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div id="detail-new" data-role="content">
+               
+            </div>
+        </section>
+
+        <section id="help" data-role="page" data-theme="b">
+            <div data-role="header" data-position="fixed" data-theme="b">
+                <div data-role="navbar" data-theme="b">
+                    <ul>
+                        <li><a href="index.html" data-rel="back" data-icon="back">Back</a></li>
+                        <li><a href="index.html#map-page" data-icon="location" data-transition='pop'>Location</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div data-role="content">
+                <ul id="help-division" data-role="listview" data-theme="b" data-icon="false"> 
+                    <li><a data-division="dhaka" data-type='' >Dhaka</a></li>
+                    <li><a data-division="chittagong" data-type=''>Chittagong</a></li>
+                    <li><a data-division="khulna" data-type=''>Khulna</a></li>
+                    <li><a data-division="rajshahi" data-type=''>Rajshahi</a></li>
+                    <li><a data-division="barisal" data-type=''>Barisal</a></li>
+                    <li><a data-division="sylhet" data-type=''>Sylhet</a></li>
+                    <li><a data-division="rangpur" data-type=''>Rangpur</a></li>
+                </ul> 
+            </div>
+        </section>
+
+        <section id="help-details" data-role='page' data-theme='b'>
+            <div data-role="header" data-position="fixed" data-theme="b">
+                <div data-role="navbar" data-theme="b">
+                    <ul>
+                        <li><a id="back-help" data-rel='back' data-icon="back">Back</a></li>
+                        <li><a id="back-help-home" href="index.html" data-icon="home">Home</a></li>
+                        <li><a href="index.html#map-page" data-icon="location" data-transition='pop'>Location</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div data-role="content">
+                <ul id="help-list" data-role="listview" data-icon='phone' data-filter="true" data-filter-placeholder="Address..."> 
+                    <li id="help-name" data-role="list-divider" data-theme="b"><h4></h4></li>
+                    <li id="help-data" data-filtertext="">
+                        <a data-number=""><p id="address"></p></a>
+                    </li>
+                </ul> 
+            </div>
+        </section>
+
+        <section data-role="page" id="map-page" data-add-back-btn="true">
+            <div data-role="header" data-position="fixed" data-theme="b">
+                <div data-role="navbar" data-theme="b">
+                    <ul>                        
+                        <li><a href="#" data-rel='back' data-icon="back">Back</a></li>
+                        <li><a href="index.html" data-icon="home" data-transition='pop'>Home</a></li>
+                        <li><a href="index.html#map-page" data-icon="location" data-transition='pop'>Location</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div data-role="content"></div>
+        </section> 
+
+        <section data-role="page" id="about" data-theme="b">
+            <div data-role="header">
+                <a href="#" data-rel='back' data-icon="back">Back</a>
+                <h4>BD Travel</h4>
+            </div>
+            <div data-role="content">
+                <p id="aboutp">BD Travel Helper is helpful for a tourist and for local people in some purpose. It provides a list, description, location of tourist sports in Bangladesh division wise.</p> 
+                <p id="aboutp">This app also help you by locating your location and location of the sport. Emergency services like Police, Hospital around Bangladesh are given in this app with location and contact.</p> 
+                <p id="aboutp">This informations  are helpful for local peoples too. A list of huge number of hotels are available  in the app with location and contact.</p> 
+                <strong>Developed By Fox Developer</strong>
+            </div>
+        </section>
+
+    </body>
+</html>

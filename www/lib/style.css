@@ -1,0 +1,45 @@
+#details > img{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-top-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    width: 220px;
+    height: 180px;
+}
+h4{
+    white-space: normal;
+}
+#details>p{
+    white-space: normal;
+    margin-top: 0px;
+}
+#divisions,#help>ul{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#listview-name{
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+#listview-address{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#image{
+    height: 100px;width: 160px;
+    float: left;margin-right: 10px;
+    margin-bottom: 2px;
+    margin-top: 6px;
+}
+p#detail{
+    margin-top: 5px;
+    font-size: small
+}
+p#address, p#open{
+    white-space: normal;
+}
+#aboutp{
+    font-size: 14px;
+    text-align:justify;
+}
